@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["OwnEd By RITz X HypeR , Dm RITz X HYPER TO GET SUPPORT SERVER LINK"];
+const statusMessages = [" RITz XYZ 🍷<3"];
 
 
 let currentIndex = 0;
