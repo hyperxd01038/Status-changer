@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [" RITz XYZ 🍷<3"];
+const statusMessages = [" 𝑹𝑰𝑻𝒛 𝑷𝑹𝑶🍷<$"];
 
 
 let currentIndex = 0;
